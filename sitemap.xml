@@ -22,6 +22,16 @@
   </url>
   
   <url>
+    <loc>http://www.utica3d.com/cnydrones/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.utica3d.com/thingiverse/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.utica3d.com/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
@@ -64,6 +74,12 @@
   </url>
   
   <url>
+    <loc>http://www.utica3d.com/cnydrones/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.utica3d.com/contact/</loc>
     <lastmod>2017-01-12T13:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -72,6 +88,12 @@
   <url>
     <loc>http://www.utica3d.com/portfolio/</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.utica3d.com/thingiverse/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
