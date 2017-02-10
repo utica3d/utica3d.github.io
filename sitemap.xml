@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.utica3d.com/portfolio/lion/</loc>
+    <lastmod>2016-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.utica3d.com/portfolio/gimbal_guard/</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
   </url>
@@ -99,7 +104,7 @@
   
   <url>
     <loc>http://www.utica3d.com/</loc>
-    <lastmod>2016-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2016-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
